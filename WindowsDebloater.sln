@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsDebloater", "WindowsDebloater\WindowsDebloater.csproj", "{F6F84283-0BCA-4DE9-94FA-5B83A643A4D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F84283-0BCA-4DE9-94FA-5B83A643A4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F84283-0BCA-4DE9-94FA-5B83A643A4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F84283-0BCA-4DE9-94FA-5B83A643A4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F84283-0BCA-4DE9-94FA-5B83A643A4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {237C4514-2166-4DA9-8DEA-772D7238F100}
+	EndGlobalSection
+EndGlobal
