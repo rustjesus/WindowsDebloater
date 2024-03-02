@@ -85,9 +85,9 @@
             label2.AutoSize = true;
             label2.Location = new Point(121, 48);
             label2.Name = "label2";
-            label2.Size = new Size(118, 15);
+            label2.Size = new Size(116, 15);
             label2.TabIndex = 5;
-            label2.Text = "Max Folder Size (GB):";
+            label2.Text = "Min Folder Size (GB):";
             // 
             // Form1
             // 
