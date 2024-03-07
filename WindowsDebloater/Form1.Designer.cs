@@ -101,7 +101,7 @@
             Controls.Add(textBox1);
             Controls.Add(richTextBox1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Windows Debloater";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
